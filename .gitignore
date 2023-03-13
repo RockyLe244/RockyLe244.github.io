@@ -1,2 +1,3 @@
 .DS_Store
-dist/
+utils/pubspec.lock
+utils/.dart_tool

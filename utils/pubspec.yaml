@@ -1,0 +1,5 @@
+name: sass_converter
+environment:
+  sdk: '^2.12.0'
+dev_dependencies:
+  sass: ^1.59.2
