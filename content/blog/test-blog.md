@@ -1,0 +1,38 @@
++++
+title = "Cái demo thứ 3 là đây"
+description = "Đây chỉ là demo mà thôi"
+date = 2023-03-01T09:19:42+00:00
+updated = 2023-03-01T09:19:42+00:00
+draft = false
+template = "blog/page.html"
+
+[extra]
+lead = "Tahi hi đồ ngốc"
++++
+
+```rust
+// This is a comment, and is ignored by the compiler
+
+// This is the main function
+fn main() {
+    // Statements here are executed when the compiled binary is called
+
+    // Print text to the console
+    println!("Hello World!");
+}
+```
+
+`println!` is a macro that prints text to the console.
+
+A binary can be generated using the Rust compiler: `rustc`.
+
+```bash
+$ rustc hello.rs
+```
+
+`rustc` will produce a `hello` binary that can be executed.
+
+```bash
+$ ./hello
+Hello World!
+```

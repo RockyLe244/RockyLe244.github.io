@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.rockorrest.com/</loc>
+    </url>
+    <url>
+        <loc>https://www.rockorrest.com/authors/</loc>
+    </url>
+    <url>
+        <loc>https://www.rockorrest.com/blog/</loc>
+    </url>
+    <url>
+        <loc>https://www.rockorrest.com/blog/demo-blog-2/</loc>
+        <lastmod>2023-03-01T09:19:42+00:00</lastmod>
+    </url>
+    <url>
+        <loc>https://www.rockorrest.com/blog/demo-blog/</loc>
+        <lastmod>2023-03-01T09:19:42+00:00</lastmod>
+    </url>
+    <url>
+        <loc>https://www.rockorrest.com/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://www.rockorrest.com/blog/test-blog/</loc>
+        <lastmod>2023-03-01T09:19:42+00:00</lastmod>
+    </url>
+</urlset>
