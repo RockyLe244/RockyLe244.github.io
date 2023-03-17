@@ -10,6 +10,8 @@ build_search_index = true
 # The taxonomies to be rendered for the site and their configuration.
 taxonomies = [
   {name = "authors"}, # Basic definition: no feed or pagination
+  {name = "categories", feed = true},
+  {name = "tags", feed = true},
 ]
 
 [markdown]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Something cool</title>
+    <link href="https://www.rockorrest.com/tags/something-cool/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://www.rockorrest.com/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-03-16T17:23:00+07:00</updated>
+    <id>https://www.rockorrest.com/tags/something-cool/atom.xml</id>
+    <entry xml:lang="en">
+        <title>bai 1</title>
+        <published>2023-03-16T17:23:00+07:00</published>
+        <updated>2023-03-16T17:23:00+07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://www.rockorrest.com/blog/ahhihi-do-ngoc/" type="text/html"/>
+        <id>https://www.rockorrest.com/blog/ahhihi-do-ngoc/</id>
+        <content type="html">&lt;p&gt;Something ham ba lang&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>
